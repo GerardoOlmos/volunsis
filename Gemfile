@@ -25,6 +25,8 @@ gem 'jbuilder', '~> 2.5'
 gem 'bootstrap-sass', '~> 3.4.0'
 gem 'sassc-rails', '>= 2.0.0'
 gem 'jquery-rails'
+
+gem 'rails-controller-testing'
 # Use Redis adapter to run Action Cable in production
 # gem 'redis', '~> 4.0'
 # Use ActiveModel has_secure_password
